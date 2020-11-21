@@ -1,0 +1,4 @@
+[submodule "apps/binbo"]
+	path = apps/binbo
+	url = git@github.com:DOBRO/binbo.git
+	branch = master
