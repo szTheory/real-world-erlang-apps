@@ -2,3 +2,11 @@
 	path = apps/binbo
 	url = git@github.com:DOBRO/binbo.git
 	branch = master
+[submodule "apps/business-process-engine"]
+	path = apps/business-process-engine
+	url = git@github.com:synrc/bpe.git
+	branch = master
+[submodule "apps/n2o-distributed-app-server"]
+	path = apps/n2o-distributed-app-server
+	url = git@github.com:synrc/n2o.git
+	branch = master
