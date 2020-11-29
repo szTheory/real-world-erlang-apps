@@ -10,3 +10,7 @@
 	path = apps/n2o-distributed-app-server
 	url = git@github.com:synrc/n2o.git
 	branch = master
+[submodule "apps/typhoon"]
+	path = apps/typhoon
+	url = https://github.com/fogfish/typhoon
+	branch = master
