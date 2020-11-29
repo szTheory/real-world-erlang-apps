@@ -14,3 +14,11 @@
 	path = apps/typhoon
 	url = https://github.com/fogfish/typhoon
 	branch = master
+[submodule "apps/couchdb"]
+	path = apps/couchdb
+	url = git@github.com:couchbase/couchdb.git
+	branch = master
+[submodule "apps/tinymq"]
+	path = apps/tinymq
+	url = git@github.com:ChicagoBoss/tinymq.git
+	branch = master
