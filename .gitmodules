@@ -82,3 +82,23 @@
 	path = apps/holiday-pinger
 	url = git@github.com:lambdaclass/holiday_pinger.git
 	branch = master
+[submodule "apps/see-search-engine"]
+	path = apps/see-search-engine
+	url = git@github.com:tmaciejewski/see.git
+	branch = master
+[submodule "apps/erlach-spa-imageboard"]
+	path = apps/erlach-spa-imageboard
+	url = git@github.com:m-2k/erlach.git
+	branch = master
+[submodule "apps/pigame-game-server-template"]
+	path = apps/pigame-game-server-template
+	url = git@github.com:Naupio/pigame.git
+	branch = master
+[submodule "apps/dderl-web-database-browser"]
+	path = apps/dderl-web-database-browser
+	url = git@github.com:K2InformaticsGmbH/dderl.git
+	branch = master
+[submodule "apps/imem-clustered-mnesia-db"]
+	path = apps/imem-clustered-mnesia-db
+	url = git@github.com:K2InformaticsGmbH/imem.git
+	branch = master
