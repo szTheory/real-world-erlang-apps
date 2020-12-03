@@ -22,3 +22,63 @@
 	path = apps/tinymq
 	url = git@github.com:ChicagoBoss/tinymq.git
 	branch = master
+[submodule "apps/emqx"]
+	path = apps/emqx
+	url = git@github.com:emqx/emqx.git
+	branch = master
+[submodule "apps/cowboy"]
+	path = apps/cowboy
+	url = git@github.com:ninenines/cowboy.git
+	branch = master
+[submodule "apps/ejabberd"]
+	path = apps/ejabberd
+	url = git@github.com:processone/ejabberd.git
+	branch = master
+[submodule "apps/vernemq"]
+	path = apps/vernemq
+	url = git@github.com:vernemq/vernemq.git
+	branch = master
+[submodule "apps/leofs"]
+	path = apps/leofs
+	url = git@github.com:leo-project/leofs.git
+	branch = master
+[submodule "apps/MongooseIM"]
+	path = apps/MongooseIM
+	url = git@github.com:esl/MongooseIM.git
+	branch = master
+[submodule "apps/aeternity-blockchain"]
+	path = apps/aeternity-blockchain
+	url = git@github.com:aeternity/aeternity.git
+	branch = master
+[submodule "apps/lorawan-server"]
+	path = apps/lorawan-server
+	url = git@github.com:gotthardp/lorawan-server.git
+	branch = master
+[submodule "apps/antidote-db"]
+	path = apps/antidote-db
+	url = git@github.com:AntidoteDB/antidote.git
+	branch = master
+[submodule "apps/erlang-performance-lab"]
+	path = apps/erlang-performance-lab
+	url = git@github.com:erlanglab/erlangpl.git
+	branch = master
+[submodule "apps/apple-push-notification-server"]
+	path = apps/apple-push-notification-server
+	url = git@github.com:inaka/apns4erl.git
+	branch = master
+[submodule "apps/hibari-kv-store"]
+	path = apps/hibari-kv-store
+	url = git@github.com:hibari/hibari.git
+	branch = master
+[submodule "apps/scannerl-fingerprinting"]
+	path = apps/scannerl-fingerprinting
+	url = git@github.com:kudelskisecurity/scannerl.git
+	branch = master
+[submodule "apps/scalaris-kv-store"]
+	path = apps/scalaris-kv-store
+	url = git@github.com:scalaris-team/scalaris.git
+	branch = master
+[submodule "apps/holiday-pinger"]
+	path = apps/holiday-pinger
+	url = git@github.com:lambdaclass/holiday_pinger.git
+	branch = master
